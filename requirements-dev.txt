@@ -1,0 +1,5 @@
+apf-base==1.0.8
+pytest==7.0.1
+pytest-docker==1.0.1
+confluent-kafka>=1.4.0
+pymongo==4.1.1
